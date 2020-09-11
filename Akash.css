@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url("image2.jpeg");
+  background-image: url("Untitled design-4.png");
   opacity:1;
   /* Set a specific height */
   min-height:100vh;
@@ -59,11 +59,7 @@ background-color:red;
   min-height: 400px;
 }
 
-.bgimg-3 {
-  background-image: url("Coding makes my dopamine levels go all silly.mp4");
-  min-height: 500px;
-  
-}
+
 .bgimg-4 {
   background-image: url("web-design-banner.jpg");
   min-height: 500px;
